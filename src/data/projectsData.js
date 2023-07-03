@@ -1,33 +1,33 @@
 import eight from '../assets/svg/projects/eight.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import six from '../assets/svg/projects/six.svg'
+import seven from  '../assets/Screenshot (218).png'
+import six from  '../assets/Screenshot (217).png'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
+        projectName: 'Nota Corda',
+        projectDesc: 'This project about Music School related that Explore the music more',
+        tags:['MERN Stack'],
+        code: 'https://github.com/pijusdas/nota-corda-client',
+        demo: 'https://nota-corda.web.app/',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: 'Foody World',
+        projectDesc: ' Indulge in a mouthwatering feast of authentic Italian recipes on an immersive full-stack culinary adventure',
+        tags: ['MERN stack'],
+        code: 'https://github.com/pijusdas/foody-world-client',
+        demo: 'https://foody-world-7515d.web.app/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
+        projectName: 'Toytronics',
+        projectDesc: 'The electronic toy marketplace website I developed provides a platform for buyers and sellers to connect, showcasing a wide range of electronic toys.',
+        tags: ['MERN Stack'],
+        code: 'https://github.com/pijusdas/Toytronic-client',
         demo: 'https://travel-agency-fc58b.web.app/',
         image: eight
     }
